@@ -83,3 +83,13 @@ i tried lots of combination of query but it failed to retrive the expected resul
 
 4)each bus has timing which will be mentioned in bus timing table with route and stop 5)one bus will travel multiple times between two city so i added trip and direction will identify which way bus is traveling i mean sydney to melborne or melborne to sydney
 
+
+
+![city_route]bustiming/city_route.jpg)
+Image explanation
+
+1)In image city refers to routes table
+
+2)green color shows multiple stops in city
+
+3)city 1 and city 2 will connect in city 3 so if a person wants to go city-1 to city-2 then he need to use interconnected buses between city-1 to city-3 and city-3 to city-2

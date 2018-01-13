@@ -85,7 +85,7 @@ i tried lots of combination of query but it failed to retrive the expected resul
 
 
 
-![city_route]bustiming/city_route.jpg)
+![city_route](https://github.com/codeforfungit/bustiming/blob/master/city_route.jpg)
 Image explanation
 
 1)In image city refers to routes table

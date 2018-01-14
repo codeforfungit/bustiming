@@ -16,4 +16,4 @@ My Project Aim
 then there might be chances of same will have multiple trips then it should return all trips 
 ----------------------------------------------------------------------
 
-when user search between stop_8 and stop_18  and between 1 clock to 12 clock then it should return all buses with time 
+when user search between stop_8 and stop_18  and between 1 clock to 12 clock then it should return all buses with time .
